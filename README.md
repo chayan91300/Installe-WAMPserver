@@ -107,6 +107,6 @@ que l'icône ne passe pas au vert, il faut donc redémarrer l’ordinateur.
 
 Un clique droit avec la souris affiche les paramètres de configuration.
 
-![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/installation5.png)
 
 Un clique gauche de la souris affiche les différents outils de travail.
