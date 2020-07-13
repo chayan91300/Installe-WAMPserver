@@ -48,6 +48,8 @@ ET 64 bit de chaque paquetage!
 Une fois terminé redémarrer votre ordinateur et vérifier que vous avez tout
 installé avec l’outil de vérification.
 
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
+
 
 ## Installation du serveur wamp
 
@@ -62,9 +64,12 @@ r%203.0.0/wampserver3.1.9_x64.exe/download
 5. Cliquer sur suivant.
 6. Cliquer sur Installer.
 
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
+
 Appuyer sur ok et sélectionner le navigateur de votre choix, se sera ce
 navigateur qui s’ouvrira par défaut quand vous voulez afficher votre page web.
 
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
 
 Appuyer sur ok et sélectionner l’éditeur de texte de votre choix.
 
@@ -93,10 +98,15 @@ Cliquer sur le menu Démarrer et sélectionner Wamp server.
 On peut voir en bas à droite de l’écran l'icône du serveur passer du rouge à
 l’orange puis disparaître.
 
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
+
 Cliquer sur la flèche en bas à droite pour voir l’état du serveur, on peut observer
 que l'icône ne passe pas au vert, il faut donc redémarrer l’ordinateur.
 
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
+
 Un clique droit avec la souris affiche les paramètres de configuration.
 
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
 
 Un clique gauche de la souris affiche les différents outils de travail.
