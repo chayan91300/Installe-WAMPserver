@@ -3,7 +3,7 @@
 
 ## Sommaire
 
-** Avant l’installation **
+**Avant l’installation**
 
 ```
 Vérification des prérequis 
