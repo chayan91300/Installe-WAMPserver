@@ -3,13 +3,13 @@
 
 ## Sommaire
 
-**Avant l’installation **
+** Avant l’installation **
 
 ```
 Vérification des prérequis 
 Installations des paquetages nécessaires 
 ```
-**Installation du serveur **
+** Installation du serveur wamp **
 
 ```
 Démarrage du serveur wamp
