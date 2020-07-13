@@ -103,7 +103,7 @@ l’orange puis disparaître.
 Cliquer sur la flèche en bas à droite pour voir l’état du serveur, on peut observer
 que l'icône ne passe pas au vert, il faut donc redémarrer l’ordinateur.
 
-![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/installation4.png)
 
 Un clique droit avec la souris affiche les paramètres de configuration.
 
