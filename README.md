@@ -98,7 +98,7 @@ Cliquer sur le menu Démarrer et sélectionner Wamp server.
 On peut voir en bas à droite de l’écran l'icône du serveur passer du rouge à
 l’orange puis disparaître.
 
-![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/installation3.png)
 
 Cliquer sur la flèche en bas à droite pour voir l’état du serveur, on peut observer
 que l'icône ne passe pas au vert, il faut donc redémarrer l’ordinateur.
