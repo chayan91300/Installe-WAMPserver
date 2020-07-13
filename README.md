@@ -9,7 +9,7 @@
 Vérification des prérequis 
 Installations des paquetages nécessaires 
 ```
-** Installation du serveur wamp **
+**Installation du serveur wamp**
 
 ```
 Démarrage du serveur wamp
