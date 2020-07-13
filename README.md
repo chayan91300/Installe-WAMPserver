@@ -64,7 +64,7 @@ r%203.0.0/wampserver3.1.9_x64.exe/download
 5. Cliquer sur suivant.
 6. Cliquer sur Installer.
 
-![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/installation1.png)
 
 Appuyer sur ok et sélectionner le navigateur de votre choix, se sera ce
 navigateur qui s’ouvrira par défaut quand vous voulez afficher votre page web.
