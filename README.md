@@ -3,16 +3,16 @@
 
 ## Sommaire
 
-**Avant l’installation 2**
+**Avant l’installation **
 
 ```
-Vérification des prérequis 2
-Installations des paquetages nécessaires 2
+Vérification des prérequis 
+Installations des paquetages nécessaires 
 ```
-**Installation du serveur 3**
+**Installation du serveur **
 
 ```
-Démarrage du serveur 5
+Démarrage du serveur wamp
 ```
 
 ## Avant l’installation
@@ -49,7 +49,7 @@ Une fois terminé redémarrer votre ordinateur et vérifier que vous avez tout
 installé avec l’outil de vérification.
 
 
-## Installation du serveur
+## Installation du serveur wamp
 
 Téléchargement du serveur ici:
 https://sourceforge.net/projects/wampserver/files/WampServer%203/WampServe
