@@ -1,8 +1,5 @@
-# Installation de
+# Installation de WampServer 3.1.9 64 bit
 
-# WAMPserver 3.1.9 64
-
-# bit
 
 ## Sommaire
 
