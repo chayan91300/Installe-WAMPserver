@@ -48,7 +48,7 @@ ET 64 bit de chaque paquetage!
 Une fois terminé redémarrer votre ordinateur et vérifier que vous avez tout
 installé avec l’outil de vérification.
 
-![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/WaMPserver.png)
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/installation.png)
 
 
 ## Installation du serveur wamp
