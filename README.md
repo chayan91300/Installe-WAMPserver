@@ -69,7 +69,7 @@ r%203.0.0/wampserver3.1.9_x64.exe/download
 Appuyer sur ok et sélectionner le navigateur de votre choix, se sera ce
 navigateur qui s’ouvrira par défaut quand vous voulez afficher votre page web.
 
-![logo](ABOUT-NLS)
+![logo](https://github.com/chayan91300/Installe-WAMPserver/blob/master/installation2.png)
 
 Appuyer sur ok et sélectionner l’éditeur de texte de votre choix.
 
